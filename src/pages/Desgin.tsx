@@ -51,11 +51,11 @@ const Design = () => {
           <p className='text-latte-rosewater'>"Kenapa Kenapa?"</p>
           <p className='text-latte-mauve'>"Ini Siapa?</p>
           <p className='text-latte-rosewater'>"Ellie Sattler"</p>
+          <p className='text-latte-mauve'>"Ellie Sattler?"</p>
+          <p className='text-latte-rosewater'>"Iyaa"</p>
           <p className='text-latte-mauve'>"Siapa Siapa?"</p>
           <p className='text-latte-rosewater'>"Ellie Loyal"</p>
-          <p className='text-latte-mauve'>"Siapa Siapa?"</p>
           <p className='text-latte-rosewater'>"Ellie Pintar"</p>
-          <p className='text-latte-mauve'>"Ellie Siapa?"</p>
           <p className='text-latte-rosewater'>
             "Ellie Kompak Bersatu, Semangat Tak Luntur!!! Rawr~~"
           </p>
