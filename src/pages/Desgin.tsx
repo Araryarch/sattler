@@ -24,10 +24,10 @@ const Design = () => {
 
       {/* Main */}
       <div className='div w-full min-h-screen flex justify-center items-start flex-col p-5 gap-3'>
-        <h1 className='text-4xl xl:text-8xl text-latte-mauve font-bold'>
+        <h1 className='text-4xl md:text-6xl xl:text-8xl text-latte-mauve font-bold'>
           Kompak Bersatu
         </h1>
-        <h2 className='text-2xl xl:text-4xl text-latte-sky font-medium'>
+        <h2 className='text-2xl md:text-4xl xl:text-4xl text-latte-sky font-medium'>
           Semangat Tak Luntur.
         </h2>
       </div>
