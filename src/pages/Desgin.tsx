@@ -34,7 +34,7 @@ const Design = () => {
       </div>
 
       {/* Botbar */}
-      <div className='absolute bottom-0 w-full flex items-center gap-2 py-5'>
+      <div className='absolute bottom-0 w-full flex flex-wrap items-center gap-2 py-5'>
         <div className='w-1/2 p-[1.5px] bg-latte-mauve'></div>
         <Link
           href='#'
@@ -61,7 +61,7 @@ const Design = () => {
           href='#'
           className='bg-black px-3 py-1 text-white'
         >
-          Google Drive
+          GDrive
         </Link>
         <div className='flex-1 p-[1.5px] bg-latte-mauve'></div>
       </div>
