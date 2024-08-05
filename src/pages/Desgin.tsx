@@ -43,7 +43,7 @@ const Design = () => {
         id='jargon'
         className='min-h-screen w-full bg-latte-base flex items-center flex-col justify-center relative'
       >
-        <h1 className='text-4xl font-semibold absolute top-0 pt-28'>
+        <h1 className='text-4xl font-semibold absolute top-0 pt-36'>
           Our Jargon
         </h1>
         <div className='jargon px-5 text-xl'>
