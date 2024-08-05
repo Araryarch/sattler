@@ -33,6 +33,11 @@ const Design = () => {
       </div>
 
       {/* Botbar */}
+      <div className='absolute bottom-0 w-full flex items-center gap-2'>
+        <div className='w-1/2 p-[1.5px] bg-black'></div>
+        <div>haii</div>
+        <div className='flex-1 p-[1.5px] bg-black'></div>
+      </div>
     </div>
   )
 }
