@@ -43,20 +43,22 @@ const Design = () => {
         id='jargon'
         className='min-h-screen w-full bg-latte-base flex items-center flex-col justify-center relative'
       >
-        <h1 className='text-xl font-semibold absolute top-0 pt-28'>
+        <h1 className='text-4xl font-semibold absolute top-0 pt-28'>
           Our Jargon
         </h1>
-        <div className='jargon'>
-          <p>"Cek Cek Cek"</p>
-          <p>"Kenapa Kenapa?"</p>
-          <p>"Ini Siapa?</p>
-          <p>"Ellie Sattler"</p>
-          <p>"Siapa Siapa?"</p>
-          <p>"Ellie Loyal"</p>
-          <p>"Siapa Siapa?"</p>
-          <p>"Ellie Pintar"</p>
-          <p>"Ellie Siapa?"</p>
-          <p>"Ellie Kompak Bersatu, Semangat Tak Luntur!!! Rawr~~"</p>
+        <div className='jargon px-5 text-xl'>
+          <p className='text-latte-mauve'>"Cek Cek Cek"</p>
+          <p className='text-latte-rosewater'>"Kenapa Kenapa?"</p>
+          <p className='text-latte-mauve'>"Ini Siapa?</p>
+          <p className='text-latte-rosewater'>"Ellie Sattler"</p>
+          <p className='text-latte-mauve'>"Siapa Siapa?"</p>
+          <p className='text-latte-rosewater'>"Ellie Loyal"</p>
+          <p className='text-latte-mauve'>"Siapa Siapa?"</p>
+          <p className='text-latte-rosewater'>"Ellie Pintar"</p>
+          <p className='text-latte-mauve'>"Ellie Siapa?"</p>
+          <p className='text-latte-rosewater'>
+            "Ellie Kompak Bersatu, Semangat Tak Luntur!!! Rawr~~"
+          </p>
         </div>
         <Botbar />
       </section>
